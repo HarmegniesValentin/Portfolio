@@ -1,0 +1,120 @@
+header
+{
+  background-color: #1c77be;
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+h1
+{
+  font-size: 45px;
+  color: white;
+  text-align: justify;
+  margin-left: 70px;
+  margin-bottom: 20px;
+  font-family: "Century Gothic", sans-serif;
+  margin-top: 29px;
+}
+#coordonneesHeader
+{
+  margin-top: 50px;
+  font-size: 14px;
+  color: white;
+  text-align: justify;
+  font-family: Poppins, sans-serif;
+}
+.page-a4 {
+  width: 210mm;
+  height: 297mm;
+  margin: 10mm auto; /* Marge pour l'affichage écran */
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box; /* Inclut padding et bordures dans la taille */
+}
+#backgroundImg
+{
+  height: 20px;
+  width: 210mm;
+}
+h2
+{
+  margin-left: 70px;
+  margin-top: 80px;
+  font-size: 18px;
+  font-family: Poppins, sans-serif;
+}
+h3
+{
+  margin-left: 70px;
+  margin-top: 30px;
+  margin-bottom: 26px;
+  font-size: 16px;
+  font-family: Poppins, sans-serif;
+}
+.textCorpLettre
+{
+  margin-left: 70px;
+  font-size: 17px;
+  font-family: Poppins, sans-serif;
+  margin-right: 70px;
+}
+footer {
+  margin-left: 70px;
+  font-size: 25px;
+  font-family: Poppins, sans-serif;
+}
+#backgroundBottomLeft
+{
+  width: 185px;
+  margin-left: -70px;
+}
+#backgroundBottomRight
+{
+  width: 200px;
+  float: right;
+}
+#backgroundBottomlettre
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 45%;
+}
+#signatureFooter
+{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#h4Fr
+{
+  margin-left: 70px;
+  margin-top: 30px;
+  font-size: 16px;
+  font-family: Poppins, sans-serif;
+}
+.changementDeLangue
+{
+  color: white;
+  font-size: 18px;
+}
+.textCorpLettreEn
+{
+  margin-left: 70px;
+  font-size: 17px;
+  font-family: Poppins, sans-serif;
+  margin-right: 70px;
+  margin-top: 35px;
+}
+#signatureFooterEn
+{
+  margin-bottom: 20px;
+  margin-top: 41px;
+}
+#h4En
+{
+  margin-left: 70px;
+  margin-top: 48px;
+  font-size: 16px;
+  font-family: Poppins, sans-serif;
+}
+
+
